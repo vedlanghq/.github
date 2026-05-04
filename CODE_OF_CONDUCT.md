@@ -1,6 +1,6 @@
-# Ved Code of Conduct
+# Lexum Code of Conduct
 
-Ved is an engineering-focused open source project exploring deterministic
+Lexum is an engineering-focused open source project exploring deterministic
 control-plane programming models.
 
 We aim to maintain a respectful, focused, and intellectually honest
